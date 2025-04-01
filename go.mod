@@ -1,4 +1,4 @@
-module github.com/wI2L/fizz
+module stash.ovh.net/pims/fizz
 
 go 1.12
 

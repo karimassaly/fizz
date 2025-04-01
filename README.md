@@ -3,11 +3,11 @@
 <p align="center"><img src="images/lemon.png" height="200px" width="auto" alt="Gin Fizz"></p><p align="center">Fizz is a wrapper for <strong>Gin</strong> based on <strong><a href="https://github.com/loopfz/gadgeto/tree/master/tonic">gadgeto/tonic</a></strong>.</p>
 <p align="center">It generates wrapping gin-compatible handlers that do all the repetitive work and wrap the call to your handlers. It can also generates an <i>almost</i> complete <strong>OpenAPI 3</strong> specification of your API.</p>
 <p align="center">
-   <a href="https://pkg.go.dev/github.com/wI2L/fizz?tab=doc"><img src="https://img.shields.io/static/v1?label=godev&message=reference&color=00add8&logo=go"></a>
-   <a href="https://goreportcard.com/report/wI2L/fizz"><img src="https://goreportcard.com/badge/github.com/wI2L/fizz"></a>
-   <a href="https://github.com/wI2L/fizz/actions"><img src="https://github.com/wI2L/fizz/workflows/CI/badge.svg"></a>
+   <a href="https://pkg.go.dev/stash.ovh.net/pims/fizzfizz?tab=doc"><img src="https://img.shields.io/static/v1?label=godev&message=reference&color=00add8&logo=go"></a>
+   <a href="https://goreportcard.com/report/wI2L/fizz"><img src="https://goreportcard.com/badge/stash.ovh.net/pims/fizzfizz"></a>
+   <a href="https://stash.ovh.net/pims/fizzactions"><img src="https://stash.ovh.net/pims/fizzworkflows/CI/badge.svg"></a>
    <a href="https://codecov.io/gh/wI2L/fizz"><img src="https://codecov.io/gh/wI2L/fizz/branch/master/graph/badge.svg"/></a>
-   <a href="https://github.com/wI2L/fizz/releases"><img src="https://img.shields.io/github/v/tag/wI2L/fizz?color=blueviolet&label=version&sort=semver"></a>
+   <a href="https://stash.ovh.net/pims/fizzreleases"><img src="https://img.shields.io/github/v/tag/wI2L/fizz?color=blueviolet&label=version&sort=semver"></a>
    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
    <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg"></a>
 <br>
